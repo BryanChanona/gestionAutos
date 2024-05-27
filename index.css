@@ -1,0 +1,112 @@
+h1{
+    text-align: center;
+}
+.container-data{
+    position: relative;
+    background-color: #D95D5D;
+    width:550px ;
+    height:650px ;
+    border-radius: 40px;
+    left: 150px;
+    top: 20px;
+}
+#nameCar{
+    background-color: #D9D9D9;
+position: absolute;
+top: 150px;
+width: 300px;
+height: 40px;
+left:125px;
+border-radius: 20px;
+
+}
+#modelCar{
+    background-color: #D9D9D9;
+    position: absolute; 
+    width: 300px;
+    height: 40px;
+    left:125px;
+    top: 240px;
+    border-radius: 20px;
+
+}
+#ageCar{
+    background-color: #D9D9D9;
+    position: absolute;
+    width: 300px;
+    height: 40px;
+    left:125px;
+    top: 330px;
+    border-radius: 20px;
+}
+#register-btn{
+    background-color: #D9D9D9;
+    position: absolute;
+    width: 150px;
+    height: 30px;
+    left:190px;
+    top: 440px;
+    border-radius: 20px;
+
+}
+.container-functions {
+    position: absolute;
+    top: 40px;
+    right: 75em;
+}
+#modelSearch{
+    background-color: #D9D9D9;
+    position: absolute;
+    width: 500px;
+    height: 40px;
+    left:125px;
+    top: 100px;
+    border-radius: 20px;
+}
+#search-btn{
+    background-color: #D9D9D9;
+    position: absolute;
+    width: 500px;
+    height: 40px;
+    left:125px;
+    top: 160px;
+    border-radius: 20px;
+}
+#searchMin{
+    background-color: #D9D9D9;
+    position: absolute;
+    width: 500px;
+    height: 40px;
+    left:125px;
+    top: 220px;
+    border-radius: 20px;
+}
+#searchMax{
+    background-color: #D9D9D9;
+    position: absolute;
+    width: 500px;
+    height: 40px;
+    left:125px;
+    top: 280px;
+    border-radius: 20px;
+}
+#printList{
+    background-color: #D9D9D9;
+    position: absolute;
+    width: 500px;
+    height: 40px;
+    left:125px;
+    top: 340px;
+    border-radius: 20px;
+}
+#imageCar{
+    position: absolute;
+    width: 920px;
+    height: 340px;
+    left: 55%;
+    bottom: 2%;
+}
+#container-empty{
+    background-color: #998888;
+    width:300px;
+}
